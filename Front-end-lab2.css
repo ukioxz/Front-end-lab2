@@ -1,0 +1,30 @@
+.gear1{
+  position: absolute;
+  width: 216px;
+  height: 216px;
+  border-radius: 50%;
+  background: #3F3939;
+  left:150px;
+  bottom: 250px;
+}
+
+
+
+.gear2{
+position: absolute;
+width: 80px;
+height: 80px;
+border-radius: 50%;
+background: #FFFFFF;
+left:220px;
+bottom: 320px;
+}
+
+
+.gear3{
+position: absolute;
+width: 60px;
+height: 60px;
+border-radius: 50%;
+background: #FFFFFF;
+}
